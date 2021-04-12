@@ -1,24 +1,69 @@
-A análise computacional de dados em saúde tem crescido em relevância e impacto não apenas pelo desenvolvimento de estratégias e algoritmos, como também pela crescente quantidade de dados disponíveis.
-Este curso tem base interdisciplinar e envolve professoras e professor de computação, engenharia elétrica e farmácia. Ela acomodará diferentes trilhas de aprendizado, possibilitando a participação e interação de alunos de ciências exatas (e.g., computação, engenharias, matemática e estatística), saúde (e.g., medicina, enfermagem, farmácia) e biologia. A disciplina contará ainda com diversos convidados, tais como especialistas em Bancos de Dados, Saúde Pública, Medicina, Enfermagem e Farmácia. 
+# Influência da Descontinuação da Medicação de Parkinson nas Funções Cerebrais
 
-Este curso apresentará um panorama de todas as etapas do processo de descoberta de conhecimento: (1) estratégias de seleção de dados guiadas por perguntas de pesquisa; (2) técnicas de pré-processamento; (3) etapas típicas de transformação, incluindo anonimização de dados; (4) análise e mineração de dados; (5) interpretação e avaliação por meio de técnicas de visualização de dados. O curso adotará uma abordagem prática, com atividades e projeto, apresentação de ferramentas e seu uso na análise de dados.
+## Influence of Parkinson's Medication Discontinuation on Brain Functions
 
-Dentre os objetivos da disciplina destacam-se:
-Conhecer os princípios fundamentais da ciência em saúde e sua relação com a ciência dos dados.
-Conhecer os principais paradigmas de computational thinking aplicados à ciência dos dados (saúde).
-Saber identificar dados de diferentes naturezas.
-Conhecer técnicas básicas de mineração de dados.
-Saber identificar o melhor casamento entre os dados e a técnica a fim de responder uma pergunta de pesquisa.
+## Apresentação
+O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação Ciência e Visualização de Dados em Saúde, oferecida no primeiro semestre de 2021, na Unicamp.
+ 
+Nome | RA | Especialização
+Alessandro Welbi Domingues Junior | 263535 | Ciências Farmacêuticas
+Alex de Castro Carvalho | 134749 | Neurociências
+Felipe Augusto Oliveira dos Santos | 233292 | Engenharia de Automação e Controle
+Felipe Marinho Tavares | 265680 | Ciências da Computação
+Thiago Machado da Cunha | 231357 | Engenharia Eletrônica
 
-# Professoras e Professor:
-* Paula D. Paro Costa - Faculdade de Engenharia Elétrica e Computação (FEEC)
-* Letícia Rittner - Faculdade de Engenharia Elétrica e Computação (FEEC)
-* Taís Freire Galvão - Faculdade de Ciências Farmacêuticas (FCF)
-* André Santanchè - Instituto de Computação (IC)
+## Descrição Resumida do Projeto
+Este projeto tem como objetivo mensurar os efeitos da descontinuação da medicação de Parkinson nas funções cerebrais.
+Link para vídeo de apresentação da proposta do projeto (máximo 3 minutos).
 
-# Público Alvo
-Esta disciplina foi concebida para que possam se matricular alunos da área da saúde (medicina, enfermagem, farmácia), biologia, computação, engenharias, matemática, estatística e outras áreas associadas.
+## Perguntas de Pesquisa
+Há diferença significativa nas funções cerebrais de pacientes com doença de Parkinson após interrupção da farmacoterapia por 15 horas?
 
-# Disciplina
+## Bases de Dados
+### EEG: Simon Conflict in Parkinson's
+### Eletroencefalografia (EEG) em Parkinson
 
-As aulas serão ministradas na modalidade à distância - terça 16h-18h e quinta 16h-18h.
+Tarefa de conflito de Simon com custo de manipulação com reforço. 28 pacientes com Parkinson e 28 controles pareados. A PD (Parkinson Disease) veio duas vezes com intervalo de uma semana, com ou sem medicação. O CTL (pessoa saudável) só entrou uma vez. Tarefa incluída na linguagem de programação Matlab. Dados coletados por volta de 2015 no Laboratório de Ritmos Cognitivos e Computação da Universidade do Novo México. Os participantes também tinham um acelerômetro colado na mão mais afetada por tremores. Dimensões X, Y, Z registradas por toda parte.
+James F Cavanagh and Arun Singh and Kumar Narayanan (2021). EEG: Simon Conflict in Parkinson's. OpenNeuro. [Dataset] doi: 10.18112/openneuro.ds003509.v1.1.0
+EEG: Simon Conflict in Parkinson's - Snapshot 1.1.0
+
+## Metodologia
+A metodologia seguirá como base o método KDD (Knowledge Discovery and Data Mining), processo de descobrimento de conhecimento a partir de dados. Neste projeto seguiremos os seguintes passos:
+Separação dos dados de interesse
+Pré-processamento dos dados, para a exclusão dos ruídos nas séries temporais.
+Transformar as séries temporais pré-processadas em matrizes de correlação.
+Utilizar as matrizes de correlação em aprendizado de máquina para classificar os pacientes medicados e não medicados.
+ 
+## Ferramentas
+As ferramentas que serão utilizadas durante o planejamento, execução e análise deste projeto seguem listados abaixo:
+> GitHub
+> Matlab
+> Python
+> Google Docs
+> Google Drive
+> Frameworks
+>> Pandas
+>> Scikit Learn
+>> Keras
+>> PyTorch
+>> TensorFlow
+>> Scipy
+> Google Colab
+> Jupyter Notebook
+
+## Cronograma
+As atividades do projeto têm sua organização baseada no método KDD (Knowledge Discovery and Data Mining), com adaptações em suas etapas.
+Estudo do domínio e revisão de literatura
+Seleção de base de dados
+Limpeza e pré-processamento de dados
+Análise de exploração de dados (EDA, Exploratory Data Analysis)
+Identificação e remoção de ruído e outliers
+Seleção e separação de dados
+Definição de estratégia para dados faltantes
+Redução e projeção dos dados
+Descobrimento de características úteis para representação dos dados
+Diminuição de dimensionalidade e redução de variáveis para obtenção de representações invariantes.
+Estudo, comparação, e algoritmos para mineração de dados
+Comparar adequação para uso de métodos de mineração de dados com a natureza e representação do dado.
+Procura de parâmetros para algoritmos, objetivando melhoria no encontro de padrões de interesse nos dados.
+Interpretação de padrões encontrados
