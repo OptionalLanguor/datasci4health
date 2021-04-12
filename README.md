@@ -46,13 +46,12 @@ As ferramentas que serão utilizadas durante o planejamento, execução e análi
 - Python
 - Google Docs
 - Google Drive
-- Frameworks
--- Pandas
--- Scikit Learn
--- Keras
--- PyTorch
--- TensorFlow
--- Scipy
+- Pandas
+- Scikit Learn
+- Keras
+- PyTorch
+- TensorFlow
+- Scipy
 - Google Colab
 - Jupyter Notebook
 
