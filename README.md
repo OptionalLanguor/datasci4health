@@ -34,10 +34,10 @@ EEG: Simon Conflict in Parkinson's - Snapshot 1.1.0
 
 ## Metodologia
 A metodologia seguirá como base o método KDD (Knowledge Discovery and Data Mining), processo de descobrimento de conhecimento a partir de dados. Neste projeto seguiremos os seguintes passos:
-Separação dos dados de interesse
-Pré-processamento dos dados, para a exclusão dos ruídos nas séries temporais.
-Transformar as séries temporais pré-processadas em matrizes de correlação.
-Utilizar as matrizes de correlação em aprendizado de máquina para classificar os pacientes medicados e não medicados.
+* Separação dos dados de interesse
+* Pré-processamento dos dados, para a exclusão dos ruídos nas séries temporais.
+* Transformar as séries temporais pré-processadas em matrizes de correlação.
+* Utilizar as matrizes de correlação em aprendizado de máquina para classificar os pacientes medicados e não medicados.
  
 ## Ferramentas
 As ferramentas que serão utilizadas durante o planejamento, execução e análise deste projeto seguem listados abaixo:
@@ -68,7 +68,7 @@ As atividades do projeto têm sua organização baseada no método KDD (Knowledg
 4. Redução e projeção dos dados
   * Descobrimento de características úteis para representação dos dados
   * Diminuição de dimensionalidade e redução de variáveis para obtenção de representações invariantes
-5. Estudo, comparação, e algoritmos para mineração de dados
+5. Estudo e comparação de algoritmos para mineração de dados
   * Comparar adequação para uso de métodos de mineração de dados com a natureza e representação do dado
   * Procura de parâmetros para algoritmos, objetivando melhoria no encontro de padrões de interesse nos dados
   * Interpretação de padrões encontrados
