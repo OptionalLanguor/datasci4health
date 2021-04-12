@@ -57,17 +57,28 @@ As ferramentas que serão utilizadas durante o planejamento, execução e análi
 
 ## Cronograma
 As atividades do projeto têm sua organização baseada no método KDD (Knowledge Discovery and Data Mining), com adaptações em suas etapas.
-Estudo do domínio e revisão de literatura
-Seleção de base de dados
-Limpeza e pré-processamento de dados
-Análise de exploração de dados (EDA, Exploratory Data Analysis)
-Identificação e remoção de ruído e outliers
-Seleção e separação de dados
-Definição de estratégia para dados faltantes
-Redução e projeção dos dados
-Descobrimento de características úteis para representação dos dados
-Diminuição de dimensionalidade e redução de variáveis para obtenção de representações invariantes.
-Estudo, comparação, e algoritmos para mineração de dados
-Comparar adequação para uso de métodos de mineração de dados com a natureza e representação do dado.
-Procura de parâmetros para algoritmos, objetivando melhoria no encontro de padrões de interesse nos dados.
-Interpretação de padrões encontrados
+
+1. Estudo do domínio e revisão de literatura
+2. Seleção de base de dados
+3. Limpeza e pré-processamento de dados
+  * Análise de exploração de dados (EDA, Exploratory Data Analysis)
+  * Identificação e remoção de ruído e outliers
+  * Seleção e separação de dados
+  * Definição de estratégia para dados faltantes
+4. Redução e projeção dos dados
+  * Descobrimento de características úteis para representação dos dados
+  * Diminuição de dimensionalidade e redução de variáveis para obtenção de representações invariantes
+5. Estudo, comparação, e algoritmos para mineração de dados
+  * Comparar adequação para uso de métodos de mineração de dados com a natureza e representação do dado
+  * Procura de parâmetros para algoritmos, objetivando melhoria no encontro de padrões de interesse nos dados
+  * Interpretação de padrões encontrados
+6. Consolidação do conhecimento descoberto em relatórios
+
+| Atividades | Abril W1 | Abril W2 | Abril W3 | Abril W4 | Abril W5 | Maio W1 | Maio W2 | Maio W3 | Maio W4 |
+|------------|----------|----------|----------|----------|----------|---------|---------|---------|---------|
+| 1          | X        | X        | X        | X        |          |         |         |         |         |
+| 2          | X        | X        |          |          |          |         |         |         |         |
+| 3          |          | X        | X        | X        |          |         |         |         |         |
+| 4          |          |          | X        | X        | X        | X       |         |         |         |
+| 5          |          |          |          |          | X        | X       | X       | X       |         |
+| 6          | X        |          |          |          |          | X       |         | X       | X       |
