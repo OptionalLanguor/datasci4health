@@ -6,10 +6,15 @@
 O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação Ciência e Visualização de Dados em Saúde, oferecida no primeiro semestre de 2021, na Unicamp.
  
 Nome | RA | Especialização
+
 Alessandro Welbi Domingues Junior | 263535 | Ciências Farmacêuticas
+
 Alex de Castro Carvalho | 134749 | Neurociências
+
 Felipe Augusto Oliveira dos Santos | 233292 | Engenharia de Automação e Controle
+
 Felipe Marinho Tavares | 265680 | Ciências da Computação
+
 Thiago Machado da Cunha | 231357 | Engenharia Eletrônica
 
 ## Descrição Resumida do Projeto
@@ -36,20 +41,20 @@ Utilizar as matrizes de correlação em aprendizado de máquina para classificar
  
 ## Ferramentas
 As ferramentas que serão utilizadas durante o planejamento, execução e análise deste projeto seguem listados abaixo:
-> GitHub
-> Matlab
-> Python
-> Google Docs
-> Google Drive
-> Frameworks
->> Pandas
->> Scikit Learn
->> Keras
->> PyTorch
->> TensorFlow
->> Scipy
-> Google Colab
-> Jupyter Notebook
+- GitHub
+- Matlab
+- Python
+- Google Docs
+- Google Drive
+- Frameworks
+-- Pandas
+-- Scikit Learn
+-- Keras
+-- PyTorch
+-- TensorFlow
+-- Scipy
+- Google Colab
+- Jupyter Notebook
 
 ## Cronograma
 As atividades do projeto têm sua organização baseada no método KDD (Knowledge Discovery and Data Mining), com adaptações em suas etapas.
