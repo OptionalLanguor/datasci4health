@@ -19,7 +19,7 @@ Integrantes:
 ## Descrição Resumida do Projeto
 
 Este projeto tem como objetivo mensurar os efeitos da descontinuação da medicação de Parkinson nas funções cerebrais.
-Link para vídeo de apresentação da proposta do projeto: https://www.youtube.com/watch?v=MeClDQ8rOfA
+Link para vídeo de apresentação da proposta do projeto: https://youtu.be/YZS0005Awzs
 
 ## Pergunta de Pesquisa
 
