@@ -19,10 +19,10 @@ Thiago Machado da Cunha | 231357 | Engenharia Eletrônica
 
 ## Descrição Resumida do Projeto
 Este projeto tem como objetivo mensurar os efeitos da descontinuação da medicação de Parkinson nas funções cerebrais.
-Link para vídeo de apresentação da proposta do projeto (máximo 3 minutos).
+Link para vídeo de apresentação da proposta do projeto: https://www.youtube.com/watch?v=MeClDQ8rOfA
 
-## Perguntas de Pesquisa
-Há diferença significativa nas funções cerebrais de pacientes com doença de Parkinson após interrupção da farmacoterapia por 15 horas?
+## Pergunta de Pesquisa
+"Há diferença significativa nas funções cerebrais de pacientes com doença de Parkinson após interrupção da farmacoterapia por 15 horas?"
 
 ## Bases de Dados
 ### EEG: Simon Conflict in Parkinson's
