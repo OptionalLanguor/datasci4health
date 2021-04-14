@@ -3,6 +3,7 @@
 ## Influence of Parkinson's Medication Discontinuation on Brain Functions
 
 ## Apresentação
+
 O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação Ciência e Visualização de Dados em Saúde, oferecida no primeiro semestre de 2021, na Unicamp.
  
 Integrantes:
@@ -12,17 +13,20 @@ Integrantes:
 | Alessandro Welbi Domingues Junior  | 263535 | Ciências Farmacêuticas             |
 | Alex de Castro Carvalho            | 134749 | Neurociências                      |
 | Felipe Augusto Oliveira dos Santos | 233292 | Engenharia de Automação e Controle |
-| Felipe Marinho Tavares             | 265680 | Ciências da Computação             |
+| Felipe Marinho Tavares             | 265680 | Engenharia da Computação           |
 | Thiago Machado da Cunha            | 231357 | Engenharia Eletrônica              |
 
 ## Descrição Resumida do Projeto
+
 Este projeto tem como objetivo mensurar os efeitos da descontinuação da medicação de Parkinson nas funções cerebrais.
 Link para vídeo de apresentação da proposta do projeto: https://www.youtube.com/watch?v=MeClDQ8rOfA
 
 ## Pergunta de Pesquisa
+
 "Há diferença significativa nas funções cerebrais de pacientes com doença de Parkinson após interrupção da farmacoterapia por 15 horas?"
 
 ## Bases de Dados
+
 ### EEG: Simon Conflict in Parkinson's
 ### Eletroencefalografia (EEG) em Parkinson
 
@@ -31,13 +35,16 @@ James F Cavanagh and Arun Singh and Kumar Narayanan (2021). EEG: Simon Conflict 
 EEG: Simon Conflict in Parkinson's - Snapshot 1.1.0
 
 ## Metodologia
+
 A metodologia seguirá como base o método KDD (Knowledge Discovery and Data Mining), processo de descobrimento de conhecimento a partir de dados. Neste projeto seguiremos os seguintes passos:
+
 * Separação dos dados de interesse
 * Pré-processamento dos dados, para a exclusão dos ruídos nas séries temporais.
 * Transformar as séries temporais pré-processadas em matrizes de correlação.
 * Utilizar as matrizes de correlação em aprendizado de máquina para classificar os pacientes medicados e não medicados.
  
 ## Ferramentas
+
 As ferramentas que serão utilizadas durante o planejamento, execução e análise deste projeto seguem listados abaixo:
 - GitHub
 - Matlab
@@ -54,6 +61,7 @@ As ferramentas que serão utilizadas durante o planejamento, execução e análi
 - Jupyter Notebook
 
 ## Cronograma
+
 As atividades do projeto têm sua organização baseada no método KDD (Knowledge Discovery and Data Mining), com adaptações em suas etapas.
 
 1. Estudo do domínio e revisão de literatura
