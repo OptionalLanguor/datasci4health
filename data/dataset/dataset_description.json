@@ -1,0 +1,14 @@
+{
+    "Name": "EEG: Simon Conflict in Parkinson's",
+    "ReferencesAndLinks": [
+        "PMID: 29802866"
+    ],
+    "Authors": [
+        "James F Cavanagh",
+        "Arun Singh",
+        "Kumar Narayanan"
+    ],
+    "License": "CC0",
+    "BIDSVersion": "1.1.1",
+    "DatasetDOI": "10.18112/openneuro.ds003509.v1.1.0"
+}

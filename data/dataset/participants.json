@@ -1,0 +1,23 @@
+{
+  "participant_id": {
+    "Description": "unique participant identifier"
+  },
+  "Original_ID": {
+    "Description": "participant identifier from recording"
+  },
+  "Group": {
+    "Description": "PD or CTL"
+  },
+  "sess1_Med": {
+    "Description": "Meds in session 1"
+  },
+  "sess2_Med": {
+    "Description": "Meds in session 2"
+  },
+  "sex": {
+    "Description": "sex of the participant"
+  },
+  "age": {
+    "Description": "age of the participant"
+  }
+}
