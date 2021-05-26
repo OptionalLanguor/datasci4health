@@ -34,6 +34,11 @@ Tarefa de conflito de Simon com custo de manipulação com reforço. 28 paciente
 James F Cavanagh and Arun Singh and Kumar Narayanan (2021). EEG: Simon Conflict in Parkinson's. OpenNeuro. [Dataset] doi: 10.18112/openneuro.ds003509.v1.1.0
 EEG: Simon Conflict in Parkinson's - Snapshot 1.1.0
 
+### Análise exploratória no dataset:
+
+* Análise de metadados: [notebooks/e2_metadata_analysis.ipynb](notebooks/e2_metadata_analysis.ipynb)
+* Análise de sinais de EEG por recordings: [notebooks/e2_per_recording_analysis.ipynb](notebooks/e2_per_recording_analysis.ipynb)
+
 ## Metodologia
 
 A metodologia seguirá como base o método KDD (Knowledge Discovery and Data Mining), processo de descobrimento de conhecimento a partir de dados. Neste projeto seguiremos os seguintes passos:
